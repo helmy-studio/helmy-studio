@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/607572832_122101362459187349_6932645411570383794_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HemEViBCjJwQ7kNvwGYrmOL&_nc_oc=AdnvGCSrLNDzZP6jnmn-x4GjToxfG4tL2FtAuWFyUmP2CtZpTw6kSkQnuNUTOa1QSHM&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=JOzz91zdARvNeHkRk2AWiw&oh=00_AfpqijcAWWAytJqYp9doUQr-iUW4Oolg3OXV5QHEssVI-w&oe=696B749B" width="100%" />
+<img src="https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/607572832_122101362459187349_6932645411570383794_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HemEViBCjJwQ7kNvwGYrmOL&_nc_oc=AdnvGCSrLNDzZP6jnmn-x4GjToxfG4tL2FtAuWFyUmP2CtZpTw6kSkQnuNUTOa1QSHM&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=JOzz91zdARvNeHkRk2AWiw&oh=00_AfpqijcAWWAytJqYp9doUQr-iUW4Oolg3OXV5QHEssVI-w&oe=696B749B" width="30%" />
 
 # 🎙️ Helmy Studio 🎨
 ### *Where Sound Meets Vision & Creativity Finds Its Voice*
