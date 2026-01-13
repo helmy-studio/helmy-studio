@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="border-radius: 50%; object-fit: cover;" src="https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/607572832_122101362459187349_6932645411570383794_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HemEViBCjJwQ7kNvwGYrmOL&_nc_oc=AdnvGCSrLNDzZP6jnmn-x4GjToxfG4tL2FtAuWFyUmP2CtZpTw6kSkQnuNUTOa1QSHM&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=JOzz91zdARvNeHkRk2AWiw&oh=00_AfpqijcAWWAytJqYp9doUQr-iUW4Oolg3OXV5QHEssVI-w&oe=696B749B" 
+<img style="border-radius: 50%; object-fit: cover;" src="https://instagram.fcai19-7.fna.fbcdn.net/v/t51.2885-19/609631647_17850432852604935_8778172633283571019_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=instagram.fcai19-7.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGRcuh7ZRnx0VWnS9sZa_9NHTKz0Yy_N7LdyEAQCuaKy8djrRNVbzZN9Wgnj9Yq0QE&_nc_ohc=aO-c9y9aQJAQ7kNvwFK95Jo&_nc_gid=MdKXU3KRPoB9aMGLnEVexA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Afq7BHnGf2xXb8y7N5jGI-n7sHeuzrQRQ9b81--bZYWKrg&oe=696B811E&_nc_sid=7a9f4b" 
      width="200" 
      height="200" 
       />
