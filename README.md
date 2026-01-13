@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1lMo0Q9pdIaozCkOI-sZ9VoO_izfspsG0/view?usp=sharing" width="100%" />
+<img src="https://github.com/helmy-studio/helmy-studio/blob/main/Helmy-studio%20Logo-modified.png?raw=true" width="100%" />
 
 # 🎙️ Helmy Studio 🎨
 ### *Where Sound Meets Vision & Creativity Finds Its Voice*
