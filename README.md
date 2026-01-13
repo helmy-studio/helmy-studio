@@ -61,5 +61,5 @@ Let's build something extraordinary together.
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Creativity%20is%20intelligence%20having%20fun." />
   <br />
-  <sub>© 2024 Helmy Studio. Crafted with Passion.</sub>
+  <sub>© 2026 Helmy Studio. Crafted with Passion.</sub>
 </div>
