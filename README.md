@@ -1,8 +1,8 @@
 <div align="center">
 
 <img style="border-radius: 50%; object-fit: cover;" src="https://yt3.googleusercontent.com/GtWedR736FBShgM7EMmSv8-2NtIsmwc7QodGVA6Grk9rSFLW1wRBj7TQWIWCviMTV1IJu5qU4g=s160-c-k-c0x00ffffff-no-rj" 
-     width="200" 
-     height="200" 
+     width="100" 
+     height="100" 
       />
 
 # 🎙️ Helmy Studio 🎨
